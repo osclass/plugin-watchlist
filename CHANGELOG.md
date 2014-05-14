@@ -1,7 +1,7 @@
 Changelog Watchlist
 ===================
 
-##version 1.0.6 - 20/02/2014
+##version 1.0.7 - 20/02/2014
 
 * Small fix on delete item
 
